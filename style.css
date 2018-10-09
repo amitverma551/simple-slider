@@ -68,5 +68,11 @@ h1 {
     cursor: pointer;
 }
 
+@media(max-width:767px){
+    
+    .container{
+        width: 100%;
+    }
+}
 
 
